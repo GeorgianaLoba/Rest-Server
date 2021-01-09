@@ -1,0 +1,5 @@
+rootProject.name = 'rest'
+include 'movies-core'
+include 'movies-web'
+include 'movies-client'
+

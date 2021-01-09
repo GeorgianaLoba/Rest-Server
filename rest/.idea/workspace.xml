@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87f63148-6d67-4afe-877d-51a3651b6573" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lab10good/catalog-rest-template-start/catalog-rest-template-start/movie-core/src/main/java/ro/ubb/movie/core/model/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab10good/catalog-rest-template-start/catalog-rest-template-start/movie-core/src/main/java/ro/ubb/movie/core/model/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab10good/catalog-rest-template-start/catalog-rest-template-start/movie-core/src/main/java/ro/ubb/movie/core/repository/MovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab10good/catalog-rest-template-start/catalog-rest-template-start/movie-core/src/main/java/ro/ubb/movie/core/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab10good/catalog-rest-template-start/catalog-rest-template-start/movie-core/src/main/java/ro/ubb/movie/core/service/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab10good/catalog-rest-template-start/catalog-rest-template-start/movie-core/src/main/java/ro/ubb/movie/core/service/MovieServiceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab10good/catalog-rest-template-start/catalog-rest-template-start/movie-web/src/main/java/ro/ubb/movie/web/converter/MovieConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab10good/catalog-rest-template-start/catalog-rest-template-start/movie-web/src/main/java/ro/ubb/movie/web/dto/MovieDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab10good/catalog-rest-template-start/catalog-rest-template-start/movie-web/src/main/java/ro/ubb/movie/web/dto/MoviesDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab11/catalog-1-list-start/catalog-1-list-start/movies-web/src/main/webapp/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/model/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/model/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/model/Rental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/repository/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/repository/MovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/repository/RentalRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/service/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/service/ClientServiceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/service/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/service/MovieServiceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/service/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-core/src/main/java/ro/ubb/movie/core/service/RentalServiceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/java/ro/ubb/movie/web/controller/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/java/ro/ubb/movie/web/controller/MovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/java/ro/ubb/movie/web/controller/RentalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/java/ro/ubb/movie/web/converter/ClientConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/java/ro/ubb/movie/web/converter/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/java/ro/ubb/movie/web/converter/MovieConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/java/ro/ubb/movie/web/converter/RentalConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/java/ro/ubb/movie/web/dto/ClientDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/java/ro/ubb/movie/web/dto/MovieDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/java/ro/ubb/movie/web/dto/RentalDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/shared/student.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/shared/student.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/shared/student.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/student-detail/student-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/student-detail/student-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/student-detail/student-detail.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/student-detail/student-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/student-list/student-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/student-list/student-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/student-list/student-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/students.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/students.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/app/students/students.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/catalog-1-list-start/catalog-1-list-start/movie-web/src/main/webapp/tslint.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1bOWgeeRYcm1gp0z0B8Bd1Z91yd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../web/lab7/lab7" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.254023" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ro.ubb.movies.web.controller" />
+      <recent name="ro.ubb.movies.core.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Geo\Desktop\uni\sdi\labs\lab10final\rest\movies-web\src\main\java\ro\ubb\movies\web\converter" />
+      <recent name="C:\Users\Geo\Desktop\uni\sdi\labs\lab10final\rest\movies-web\src\main\java\ro\ubb\movies\web\dto" />
+      <recent name="C:\Users\Geo\Desktop\uni\sdi\labs\lab10final\rest\movies-web\src\main\java\ro\ubb\movies\core\service" />
+      <recent name="C:\Users\Geo\Desktop\uni\sdi\labs\lab10final\rest\movies-web\src\main\java\ro\ubb\movies\core\repository" />
+      <recent name="C:\Users\Geo\Desktop\uni\sdi\labs\lab10final\rest\movies-web\src\main\java\ro\ubb\movies\core\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.30">
+    <configuration name="ClientApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ubb.movies.client.ClientApp" />
+      <module name="rest.movies-client.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ubb.movies.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.30" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.30" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : geo : movies-web-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_rest" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64308" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : geo : movies-web-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientApp" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.30" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87f63148-6d67-4afe-877d-51a3651b6573" name="Default Changelist" comment="" />
+      <created>1588503732546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588503732546</updated>
+      <workItem from="1588503735828" duration="10755000" />
+      <workItem from="1588531318328" duration="614000" />
+      <workItem from="1588611508330" duration="8107000" />
+      <workItem from="1588673754113" duration="103000" />
+      <workItem from="1588676648592" duration="1540000" />
+      <workItem from="1588683349794" duration="262000" />
+      <workItem from="1588950818241" duration="9000" />
+      <workItem from="1589018970933" duration="162000" />
+      <workItem from="1589126976257" duration="2581000" />
+      <workItem from="1589226364433" duration="4712000" />
+      <workItem from="1589241715561" duration="29000" />
+      <workItem from="1592207839471" duration="1703000" />
+      <workItem from="1592221827055" duration="2513000" />
+      <workItem from="1592372821340" duration="5381000" />
+      <workItem from="1595240167931" duration="2917000" />
+      <workItem from="1595325863448" duration="599000" />
+      <workItem from="1595414758506" duration="29000" />
+      <workItem from="1595581106455" duration="1258000" />
+      <workItem from="1596400387406" duration="162000" />
+      <workItem from="1596709945468" duration="5000" />
+      <workItem from="1597156852420" duration="133000" />
+      <workItem from="1597386522225" duration="599000" />
+      <workItem from="1599903787636" duration="49000" />
+      <workItem from="1610107277663" duration="436000" />
+      <workItem from="1610109916133" duration="4673000" />
+      <workItem from="1610179473724" duration="73000" />
+      <workItem from="1610190552135" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1610111660847">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1610111660847" />
+    <state x="420" y="98" key="FileChooserDialogImpl" timestamp="1610109983095">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610109983095" />
+    <state width="238" height="2" key="GridCell.Tab.0.bottom" timestamp="1610179545886">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="238" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610179545886" />
+    <state width="238" height="2" key="GridCell.Tab.0.center" timestamp="1610179545885">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="238" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1610179545885" />
+    <state width="238" height="2" key="GridCell.Tab.0.left" timestamp="1610179545885">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="238" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1610179545885" />
+    <state width="238" height="2" key="GridCell.Tab.0.right" timestamp="1610179545886">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="238" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1610179545886" />
+    <state width="238" height="2" key="GridCell.Tab.1.bottom" timestamp="1610179545886">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="238" height="2" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610179545886" />
+    <state width="238" height="2" key="GridCell.Tab.1.center" timestamp="1610179545886">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="238" height="2" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1610179545886" />
+    <state width="238" height="2" key="GridCell.Tab.1.left" timestamp="1610179545886">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="238" height="2" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1610179545886" />
+    <state width="238" height="2" key="GridCell.Tab.1.right" timestamp="1610179545886">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="238" height="2" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1610179545886" />
+    <state width="238" height="2" key="GridCell.Tab.2.bottom" timestamp="1610179545886">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="238" height="2" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610179545886" />
+    <state width="238" height="2" key="GridCell.Tab.2.center" timestamp="1610179545886">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="238" height="2" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1610179545886" />
+    <state width="238" height="2" key="GridCell.Tab.2.left" timestamp="1610179545886">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="238" height="2" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1610179545886" />
+    <state width="238" height="2" key="GridCell.Tab.2.right" timestamp="1610179545886">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="238" height="2" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1610179545886" />
+    <state x="90" y="0" key="new project wizard" timestamp="1610109994082">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="90" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1610109994082" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/movies-core/src/main/java/ro/ubb/movies/core/service/MovieServiceImplementation.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/movies-client/src/main/java/ro/ubb/movies/client/ui/Console.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/movies-web/src/main/java/ro/ubb/movies/web/controller/MovieController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
